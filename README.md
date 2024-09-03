@@ -6,7 +6,7 @@
 
 <div style='display: flex; justify-content: space-around; '  >
 <div align="left" style="padding-top: 20px;text-align: center;" >
-<h1 align="center" margin='20px' >Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Adarsh Chaturvedi </h1>
+<h1 align="center" margin='20px' >Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Syed Taqiuddin.R </h1>
 <h3 align="center" margin='20px' >A passionate and aspiring Full Stack developer from India</h3>
 <!-- <p align="center" style="width: 30px; margin-left: 30%; margin-top: 30px;"    > <img style="width: 150px;" src="https://komarev.com/ghpvc/?username=Payalsahuj&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh chaturvedi" /> </p> -->
 
@@ -26,13 +26,13 @@
 
 ## 💫 About Me:
 
-- 🧠 I’m currently learning **React**
+- 🧠 I’m currently learning **Express.js && Node.js**
 
 - 📝 I regularly read articles on Technology.
 
 - 💬 Ask me about **react, vanilla javascript**
 
-- 📫 How to reach me **adarshchaturvedi98@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/taqiuddin-syed/**
 
 ---
 
@@ -42,7 +42,7 @@
 <!-- <p align="left" style=' width:"90%"; margin: auto; padding: 23px;display: flex; gap: 18px; '>
 <a href="https://github.com/Adarsh-ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="payal" height="30" width="40" /></a> -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-ch/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-ch/](https://www.linkedin.com/in/taqiuddin-syed/))
 
 <!-- <a href="www.linkedin.com/in/adarsh-ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adarsh" height="30" width="40" /></a> -->
 
