@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Passionate+about+creating+great+user+experiences" alt="Typing SVG">
 </p>
 
-<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
+<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://camo.githubusercontent.com/ba8e5f2ac223c669d75c2b5e8dc4d6a2755dfb4031773d895156da36040b8b6c/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62373933396437336433326362336365356534386138306464333564633539392f74656e6f722e676966" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
 
 <div style='display: flex; justify-content: space-around; '  >
 <div align="left" style="padding-top: 20px;text-align: center;" >
