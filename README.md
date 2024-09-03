@@ -50,11 +50,11 @@
 
 ## 💼 Current Projects
 
-- **[Project 1](github.com/Sahilz9/Salesforce-Sages_084)**: Masai Movies is an aggregator service for the entertainment industry whereby we can assist you with information and ticketing for movies.
+- **[Project 1](https://github.com/Sahilz9/Salesforce-Sages_084)**: Masai Movies is an aggregator service for the entertainment industry whereby we can assist you with information and ticketing for movies.
 - **Areas of Responsibility**
 - Developed user profile page and profile updating feature, ensuring seamless data storage using JSON server.
 - Implemented fetch and patch API requests to facilitate real-time updates and efficient data management.
-- **[Project 2](github.com/aniyant/MovieVerse)**: MovieVerse is an online platform for streaming comics, cartoons, and movies. 
+- **[Project 2](https://github.com/aniyant/MovieVerse)**: MovieVerse is an online platform for streaming comics, cartoons, and movies. 
 - **Areas of Responsibility**
 - Designed and implemented the front-end user interface.
 - Managed exceptions, validations, and the GitHub repository. 
