@@ -91,7 +91,7 @@
 ### 🔝 Top Contributed Repo
 
 <p align="center">
-  <img width="800" height="220" src="https://github-contributor-stats.vercel.app/api?username=Adarsh-ch&limit=5&theme=dark&combine_all_yearly_contributions=true">
+  <img width="800" height="220" src="https://github-contributor-stats.vercel.app/api?username=mr-taqi&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=Adarsh-ch&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
