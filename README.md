@@ -80,8 +80,8 @@
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Adarsh-ch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"><br/>
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-ch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mr-taqi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"><br/>
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-taqi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 </p>
 
 ---
