@@ -86,6 +86,10 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mr-taqi&theme=alduin&no-frame=true&no-bg=false&margin-w=4)
+
 ---
 
 ### 🔝 Top Contributed Repo
