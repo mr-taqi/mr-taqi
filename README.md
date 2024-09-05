@@ -81,7 +81,7 @@
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mr-taqi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"><br/>
-  
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-taqi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 </p>
 
 ---
