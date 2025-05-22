@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Passionate+about+creating+great+user+experiences" alt="Typing SVG">
 </p>
 
-<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://camo.githubusercontent.com/ba8e5f2ac223c669d75c2b5e8dc4d6a2755dfb4031773d895156da36040b8b6c/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62373933396437336433326362336365356534386138306464333564633539392f74656e6f722e676966" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
+<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://camo.githubusercontent.com/ba8e5f2ac223c669d75c2b5e8dc4d6a2755dfb4031773d895156da36040b8b6c/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62373933396437336433326362336365356534386138306464333564633539392f74656e6f722e676966" width="80%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
 
 <div style='display: flex; justify-content: space-around; '  >
 <div align="left" style="padding-top: 20px;text-align: center;" >
@@ -26,11 +26,11 @@
 
 ## 💫 About Me:
 
-- 🧠 I’m currently learning **Express.js && Node.js**
+- 🧠 I’m currently learning **React.js && Next.js**
 
 - 📝 I regularly read articles on Technology.
 
-- 💬 Ask me about **react, vanilla javascript**
+- 💬 Ask me about **react, vanilla javascript, CSS libraries**
 
 - 📫 How to reach me **https://www.linkedin.com/in/taqiuddin-syed/**
 
