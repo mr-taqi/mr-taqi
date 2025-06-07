@@ -2,18 +2,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Passionate+about+creating+great+user+experiences" alt="Typing SVG">
 </p>
 
-<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://camo.githubusercontent.com/ba8e5f2ac223c669d75c2b5e8dc4d6a2755dfb4031773d895156da36040b8b6c/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62373933396437336433326362336365356534386138306464333564633539392f74656e6f722e676966" width="80%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
-
-<div style='display: flex; justify-content: space-around; '  >
-<div align="left" style="padding-top: 20px;text-align: center;" >
-<h1 align="center" margin='20px' >Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Syed Taqiuddin.R </h1>
-<h3 align="center" margin='20px' >A passionate Full Stack developer from India</h3>
-<!-- <p align="center" style="width: 30px; margin-left: 30%; margin-top: 30px;"    > <img style="width: 150px;" src="https://komarev.com/ghpvc/?username=Payalsahuj&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh chaturvedi" /> </p> -->
-
+<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px;" >
+  <img src="https://camo.githubusercontent.com/ba8e5f2ac223c669d75c2b5e8dc4d6a2755dfb4031773d895156da36040b8b6c/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62373933396437336433326362336365356534386138306464333564633539392f74656e6f722e676966" width="80%" style="margin='auto'; height='250px'; padding='60px'" />
 </div>
 
-<div id="header" align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Adarsh-ch&icon=1&color=1" alt=""/>
+<div style='display: flex; justify-content: space-around;'>
+  <div align="left" style="padding-top: 20px;text-align: center;">
+    <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Syed Taqiuddin.R </h1>
+    <h3 align="center">A passionate Full Stack developer from India</h3>
+  </div>
+
+  <div id="header" align="center">
+    <img src="https://visitcount.itsvg.in/api?id=Adarsh-ch&icon=1&color=1" alt=""/>
+  </div>
 </div>
 
 <p align="center">
@@ -21,20 +22,30 @@
   <a href="#-socials">Contact Me</a> •
   <a href="#-current-projects">Current Projects</a> •
   <a href="#-tech-stack">Tech stacks</a> •
-  
 </p>
 
 ## 💫 About Me:
 
+I'm a full-stack web developer and Masai School graduate skilled in HTML, CSS, JavaScript, React, and MongoDB. **I recently worked at Travelxp as a Software Developer Trainee, building responsive UIs with Next.js and Tailwind CSS, and integrating APIs for travel content**. I'm passionate about problem-solving, team collaboration, and creating user-friendly digital solutions.
+
 - 🧠 I’m currently learning **React.js && Next.js**
-
 - 📝 I regularly read articles on Technology.
-
 - 💬 Ask me about **react, vanilla javascript, CSS libraries**
-
 - 📫 How to reach me **https://www.linkedin.com/in/taqiuddin-syed/**
 
 ---
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taqiuddin-syed/)
+
+---
+
+## 💼 Current Projects
+
+- **[Project 1](https://github.com/Sahilz9/Salesforce-Sages_084)**: Masai Movies is an aggregator service for the entertainment industry whereby we can assist you with information and ticketing for movies.
+- **Areas of Responsibility**
+- Developed user profile page and profile updating feature, ensuring...
 
 ## 🌐 Socials:
 
